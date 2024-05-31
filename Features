@@ -1,0 +1,5 @@
+Student Management: Allows administrators to add, update, and delete student records.
+Course Management: Facilitates the management of courses offered by the university, including adding new courses, updating course information, and assigning instructors.
+Faculty Management: Enables administrators to manage faculty information, such as adding new faculty members, updating their profiles, and assigning courses.
+Enrollment: Provides functionality for students to enroll in courses offered by the university.
+Administrative Tasks: Includes features for administrative tasks such as generating reports, managing user accounts, and system maintenance.
